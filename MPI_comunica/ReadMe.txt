@@ -1,5 +1,5 @@
-﻿El objetivo de este programa es permitir la entrada del usuario a un número,
-a continuación, calcular la suma de 1 +2 +3 + .... número introducido por el usuario.
+﻿El objetivo de este programa es permitir la entrada al usuario de un número,
+a continuación, calcula la suma de 1 +2 +3 + .... hasta número introducido por el usuario.
 El último número está incluido.
 Por ejemplo, si el usuario introduce 100, la suma de 1 a 100 incluirá 100.
 Este programa se ejecutará con el mayor número de hilos que pueda o se le diga
